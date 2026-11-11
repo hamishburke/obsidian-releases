@@ -27707,10 +27707,10 @@
   },
   {
     "id": "researcher",
-    "name": "Lumen - AI Brain",
+    "name": "Research Assistant",
     "author": "Hamish",
-    "description": "Async research workflow for Obsidian notes. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "slaymish/Lumen"
+    "description": "Local research over an Obsidian vault: related notes surfaced as you write, long-form reports with every citation checked, and research memory. Runs on Ollama; nothing leaves the machine. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "hamishburke/obsidian-research-assistant"
   },
   {
     "id": "magneto",
